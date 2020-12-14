@@ -1,0 +1,18 @@
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Panasonic", 800, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Sony", 700, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Apple", 1000, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Sony Notebook", 1000, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Hewlett Packard", 500, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Bianchi", 600, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Nike", 100, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Adidas", 200, new Date());
+-- INSERT INTO productos (nombre, precio, create_at)
+-- VALUES ("Reebok", 300, new Date());
